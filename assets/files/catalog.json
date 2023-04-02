@@ -1,0 +1,92 @@
+{
+  "products" : [
+    {
+        "id": 1,
+        "name": "iphone 12 Pro",
+        "desc": "Apple iphone 12 Generation",
+        "price": 966,
+        "color": "#33505a",
+        "image":"https://static.techspot.com/images2/downloads/topdownload/2020/11/2020-11-05-ts3_thumbs-609.png"
+    },
+
+    {
+      "id": 2,
+      "name": "Google",
+      "desc": "Google Pixel",
+      "price": 777,
+      "color": "#33505a",
+      "image":"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Copy_of_Pixel_4a_Front__Back_2_DsEGUfI.max-1100x1100.jpg"
+    },
+
+    {
+      "id": 3,
+      "name": "Redmi",
+      "desc": "Note 9 Pro Max",
+      "price": 999,
+      "color": "#33505a",
+      "image":"https://dlcdnwebimgs.asus.com/gain/08d3fa8a-25d1-4439-991d-34cf59fa6b4e/"
+    },
+
+    {
+      "id": 4,
+      "name": "Assus",
+      "desc": "Assus 12",
+      "price": 888,
+      "color": "#33505a",
+      "image":"https://m.media-amazon.com/images/I/71WuDXpTAlL._SY450_.jpg"
+    },
+
+    {
+      "id":  5,
+      "name": "Samsung",
+      "desc": "Samsung F22",
+      "price": 222,
+      "color": "#33505a",
+      "image":"https://cdn1.smartprix.com/rx-ii3Pn8ry8-w420-h420/samsung-galaxy-s21-f.webp"
+    },
+
+    {
+      "id": 6,
+      "name": "MI",
+      "desc": "Mi 10i",
+      "price": 333,
+      "color": "#33505a",
+      "image":"https://m.media-amazon.com/images/I/61Ai5p2zzJL._SL1500_.jpg"
+    },
+
+    {
+      "id": 7,
+      "name": "Vivo",
+      "desc": "Vivo 12",
+      "price": 444,
+      "color": "#33505a",
+      "image":"https://m.media-amazon.com/images/I/41++SzbW8UL._SY300_SX300_.jpg"
+    },
+
+    {
+      "id": 8,
+      "name": "Oppo",
+      "desc": "oppo 12",
+      "price": 555,
+      "color": "#33505a",
+      "image":"https://cdn1.smartprix.com/rx-iuvs4uvlM-w420-h420/oppo-a57-4g-4gb-ram.webp"
+    },
+    {
+      "id": 9,
+      "name": " AirPods",
+      "desc": "Apple AirPods Pro (2nd Generation)",
+      "price": 555,
+      "color": "#33505a",
+      "image":"https://m.media-amazon.com/images/I/2110TEYPKnL._SY445_SX342_QL70_FMwebp_.jpg"
+    },
+
+    {
+      "id": 10,
+      "name": " Boat",
+      "desc": "Boat f22 Neckband",
+      "price": 899,
+      "color": "#33505a",
+      "image":"https://m.media-amazon.com/images/I/41GnWg6R2rL._SX300_SY300_QL70_FMwebp_.jpg"
+    }
+  ]
+}
